@@ -591,7 +591,6 @@ This project is open source and available for educational purposes.
 For questions, suggestions, or support:
 
 - Open an issue on GitHub
-- Email: your-email@example.com
 
 ---
 
