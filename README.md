@@ -574,10 +574,6 @@ Contributions are welcome! Please follow these steps:
 - Test thoroughly before submitting PR
 - Include screenshots for UI changes
 
-## 📝 License
-
-This project is open source and available for educational purposes.
-
 ## 🙏 Acknowledgments
 
 - Built with Django web framework
