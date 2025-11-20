@@ -597,7 +597,7 @@ For questions, suggestions, or support:
 **Disclaimer**: This application is designed for educational and demonstration purposes. For production use in medical facilities, ensure compliance with healthcare regulations, data protection laws (HIPAA, GDPR), and security best practices. Consult with legal and medical professionals before deployment.
 
 ---
-
-Made with ❤️ for saving lives | © 2025 Pratyush Srivastava
-
-**[⬆ Back to Top](#-blood-bank-management-system)**
+<div align="center">
+  <strong>Made with ❤️ for saving lives | © 2025 Pratyush Srivastava
+</strong>
+</div>
